@@ -1,2 +1,7 @@
 markdown: rdiscount
 pygments: true
+
+safe: true
+source: https://github.com/bagface/bagface.github.com
+destination: https://github.com/bagface/bagface.github.com
+lsi: false
